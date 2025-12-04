@@ -194,7 +194,7 @@ Visualisations depuis les notebooks :
 ### 📊 Dashboard – Aperçu (image)
 
 ```md
-![Dashboard Databricks](5_dashboard/dashboard.png)
+![Dashboard Databricks](project_ecommerce/5_dashboard/dashboard.png)
 ```
 
 
