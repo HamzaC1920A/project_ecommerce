@@ -221,5 +221,4 @@ Ingénieur Informatique – Data Science & Machine Learning
 🔗 Passionné par Databricks, Lakehouse, Cloud & Modern Data Stack
 
 ---
-![Databricks](.avantages de databricks.png)
 
