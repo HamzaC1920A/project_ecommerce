@@ -189,7 +189,7 @@ Visualisations depuis les notebooks :
 
 ---
 
-# 📸 Captures & GIF Dashboard
+# 📸 Captures 
 
 ### 📊 Dashboard – Aperçu (image)
 
@@ -220,9 +220,3 @@ Ingénieur Informatique – Data Science & Machine Learning
 
 ---
 
-Si tu veux aller encore plus loin, je peux aussi te générer :
-🔥 **un logo personnalisé pour ton projet (PNG/SVG)**
-🔥 **un schéma PNG stylisé du pipeline (design pro)**
-🔥 **une section “How to Run” si tu veux rendre le repo public et réutilisable**
-
-Tu veux quoi maintenant ?
