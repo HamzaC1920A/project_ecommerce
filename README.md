@@ -37,6 +37,8 @@
 Ce projet met en place un pipeline **Data + AI complet** sur Databricks.
 L’objectif : construire une architecture **Lakehouse** moderne permettant d’ingérer, transformer, visualiser et modéliser des données dans un flux entièrement automatisé.
 
+
+
 ---
 
 # 🎯 Objectifs
@@ -219,4 +221,5 @@ Ingénieur Informatique – Data Science & Machine Learning
 🔗 Passionné par Databricks, Lakehouse, Cloud & Modern Data Stack
 
 ---
+![Databricks](./avantages de databricks.png)
 
